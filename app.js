@@ -18,6 +18,6 @@ const name1 = "Saquib";
 console.log(typeof name1);
 
 
-const today = new Date();
+let today = new Date();
 console.log("\n\n" + today);
 console.log(typeof today);
